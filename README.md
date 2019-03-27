@@ -1,2 +1,2 @@
 # Introductions-to-Algorithms
-The code by myself in book Introductions to Algorithm
+The code written by myself in book “Introductions to Algorithm”.
