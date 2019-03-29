@@ -1,7 +1,5 @@
 ﻿//快速排序均是递归实现，进行一次快排找出key值，算法有多种。
 //左右指针法；挖坑法；前后指针法
-
-#include "pch.h"
 #include <iostream>
 using namespace std;
 
