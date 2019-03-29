@@ -1,2 +1,2 @@
 # Introductions-to-Algorithms
-The code by myself in book Introductions to Algorithm
+The implementation of algorithms and data structures in book “Introductions to Algorithm” by myself.
